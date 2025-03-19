@@ -1,8 +1,8 @@
 export interface Prelevement {
-  2020: string;
-  2021: string;
-  2022: string;
-  2023: string;
-  2024: string;
+  2020: string | number ;
+  2021: string | number ;
+  2022: string | number ;
+  2023: string | number ;
+  2024: string | number ;
   id: string;
 }
